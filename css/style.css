@@ -1,0 +1,27 @@
+body {
+    margin-top: 0;
+    padding: 0;
+    background: #fdfce8;
+}
+
+.pata-pata-wrapper {
+    margin: 0;
+    padding: 0;
+}
+
+.hide { display: none; }
+
+#timer {
+    margin: 0;
+    padding: 0;
+    font-size: 5em !important;
+}
+.clock {
+    clear: both; 
+    margin: 0 auto;
+    padding-top: 5em;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 1em;
+    font-size: 2em;
+}   
